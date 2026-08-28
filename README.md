@@ -49,7 +49,7 @@ WHERE
 ORDER BY salary_year_avg DESC 
 LIMIT 10;
 ```
-![Top Paying Roles](project_sql\Assets\1_top_pay_roles.png)
+![Top Paying Roles](project_sql/Assets/1_top_pay_roles.png)
 * This was generated using AI tools
 
 *Breakdown of the top paying data analyst jobs in 2023:
@@ -86,7 +86,7 @@ INNER JOIN skills_job_dim ON top_paying_jobs.job_id = skills_job_dim.job_id
 INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id 
 ORDER BY salary_year_avg DESC;
 ```
-![Top Paying Skills](project_sql\Assets\2_top_paying_skills.png)
+![Top Paying Skills](project_sql/Assets/2_top_paying_skills.png)
 * This was generated using AI tools
 
 *Breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in 2023:
@@ -111,7 +111,7 @@ This query helped identify the skills most frequently requested in job postings,
     ORDER BY demand_count DESC
     LIMIT 5;
 ```
-![In-Demand Skills](project_sql\Assets\3_in-demand_skills.png)
+![In-Demand Skills](project_sql/Assets/3_in-demand_skills.png)
 
 *Breakdown of the most demanded skills for data analysts in 2023
 - **SQL** and **Excel** remain fundamental, emphasizing the need for strong foundational skills in data processing and spreadsheet manipulation.
@@ -138,7 +138,7 @@ ORDER BY salary_avg DESC
 LIMIT 15;
 ```
 
-![Top Skills Based on Salary](project_sql\Assets\4_skills_based_on_salary.png)
+![Top Skills Based on Salary](project_sql/Assets/4_skills_based_on_salary.png)
 
 *Breakdown of the results for top paying skills for Data Analysts:
 1. ****Big Data & Distributed Computing Dominate the Top
@@ -234,7 +234,7 @@ ORDER BY
     demand_count DESC
 LIMIT 15;
 ```
-![Most High Demand and High Salary Skills](project_sql\Assets\5_most_high_demand_high_salary_skills.png)
+![Most High Demand and High Salary Skills](project_sql/Assets/5_most_high_demand_high_salary_skills.png)
 
 *Breakdown of the most optimal skills for Data Analysts in 2023: 
 1. **The Demand vs. Salary Trade-Off**
