@@ -1,0 +1,62 @@
+[
+  {
+    "skills": "pyspark",
+    "salary_avg": "208172"
+  },
+  {
+    "skills": "bitbucket",
+    "salary_avg": "189155"
+  },
+  {
+    "skills": "couchbase",
+    "salary_avg": "160515"
+  },
+  {
+    "skills": "watson",
+    "salary_avg": "160515"
+  },
+  {
+    "skills": "datarobot",
+    "salary_avg": "155486"
+  },
+  {
+    "skills": "gitlab",
+    "salary_avg": "154500"
+  },
+  {
+    "skills": "swift",
+    "salary_avg": "153750"
+  },
+  {
+    "skills": "jupyter",
+    "salary_avg": "152777"
+  },
+  {
+    "skills": "pandas",
+    "salary_avg": "151821"
+  },
+  {
+    "skills": "elasticsearch",
+    "salary_avg": "145000"
+  },
+  {
+    "skills": "golang",
+    "salary_avg": "145000"
+  },
+  {
+    "skills": "numpy",
+    "salary_avg": "143513"
+  },
+  {
+    "skills": "databricks",
+    "salary_avg": "141907"
+  },
+  {
+    "skills": "linux",
+    "salary_avg": "136508"
+  },
+  {
+    "skills": "kubernetes",
+    "salary_avg": "132500"
+  }
+]
