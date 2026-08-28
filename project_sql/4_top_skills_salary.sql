@@ -53,4 +53,4 @@ WHERE
 GROUP BY  
     skills_dim.skills
 ORDER BY salary_avg DESC
-LIMIT 15
+LIMIT 15;

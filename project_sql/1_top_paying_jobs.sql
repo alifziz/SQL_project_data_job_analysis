@@ -38,6 +38,13 @@ top 10
 
 ORDER BY salary_year_avg DESC 
 LIMIT 10;
+
+4. Analyze skills with ai tools
+prompt: These are the top 10 data analyst roles I found in job postings in 2023, can you analyze the skill column and display insights
+and result attachment
+create a horizontal bar chart with the findings
+
+show me the chart result
 */
 
 

@@ -160,7 +160,7 @@ PowerPoint – eighth (58)
 Looker – shortest bar (49)
 */
 
-
+-- With CTEs
 
 WITH skills_demand AS(
     SELECT

@@ -63,4 +63,4 @@ sql      ███████████████████████�
         job_work_from_home = true
     GROUP BY skills_dim.skills
     ORDER BY demand_count DESC
-    LIMIT 5
+    LIMIT 5;

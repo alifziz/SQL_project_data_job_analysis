@@ -64,9 +64,7 @@ create a horizontal bar chart with the findings
 
 show me the chart result
 
-
 📊 Horizontal Bar Chart: Top Skills for Highest-Paying Data Analyst Jobs (2023)
-text
 SQL          ████████████████████████████████████████████ 100% (10/10)
 Python       ██████████████████████████████████████████  90%  (9/10)
 Tableau      ██████████████████████████████████████      70%  (7/10)
@@ -87,7 +85,6 @@ SAP          ██████                                      10%  (1/10)
 Jenkins      ██████                                      10%  (1/10)
 
 📈 Summary Statistics
-
 ┌─────────────────────────────────────────────────────────────┐
 │  KEY INSIGHTS FROM THE CHART                              │
 ├─────────────────────────────────────────────────────────────┤
