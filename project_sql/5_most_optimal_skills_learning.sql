@@ -158,6 +158,7 @@ SAS – seventh (63)
 PowerPoint – eighth (58)
 
 Looker – shortest bar (49)
+
 */
 
 -- With CTEs
@@ -209,7 +210,7 @@ ORDER BY
     demand_count DESC
 LIMIT 15;
 
--- Alternative concise query- 
+-- Alternative and concise query- 
 -- without CTEs
 
 SELECT
@@ -231,3 +232,11 @@ ORDER BY
     avg_salary DESC,
     demand_count DESC
 LIMIT 15;
+
+/*
+SELECT 
+    skill_id,
+    skills
+    COUNT(job_id) AS demand
+
+*/
